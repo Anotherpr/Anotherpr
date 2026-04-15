@@ -1,35 +1,40 @@
 # Hi there, I'm Prana Ridhollah Wijaya 👋
 
-[cite_start]I am a **Mathematics student at Diponegoro University** with a profound passion for exploring the intersection between mathematical theory and **Artificial Intelligence** development[cite: 32]. [cite_start]I focus on bridging complex stochastic modeling with modern deep learning techniques to solve real-world problems[cite: 10].
-
-## 🚀 About Me
-
-* [cite_start]🎓 **Education**: Currently pursuing a degree in Applied Mathematics at Diponegoro University (2025–2029)[cite: 39, 41].
-* [cite_start]🎯 **Goal**: Aspiring AI Research Scientist dedicated to advancing the field of AI through mathematical rigor[cite: 10].
-* 💼 **Experience**: Previously worked as a Freelance IT professional at PT. [cite_start]Indah Berkah Bersaudara (JNE Depok)[cite: 34, 35].
-* [cite_start]🧠 **Interests**: Deep Learning, Stochastic Modeling, and the mathematical foundations of AI[cite: 10, 32].
-* [cite_start]📍 **Location**: Based in Depok, West Java, Indonesia[cite: 12].
-
-## 🛠 Tech Stack
-
-While I am constantly expanding my toolkit, my core focus areas include:
-
-* [cite_start]**Mathematics**: Applied Mathematics, Stochastic Modeling, Statistical Analysis[cite: 10, 40].
-* [cite_start]**Artificial Intelligence**: Deep Learning, Machine Learning Research[cite: 10, 32].
-* [cite_start]**Programming**: Python (Member of Python Developers Community)[cite: 98, 102].
-
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anotherpr&show_icons=true&theme=vue-dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anotherpr&layout=compact&theme=vue-dark" />
-</p>
+I am a **Mathematics student at Diponegoro University** with a strong passion for exploring the intersection between mathematical theory and **Artificial Intelligence**. I enjoy bridging complex mathematical concepts—especially stochastic modeling—with modern machine learning techniques to solve real-world problems.
 
 ---
 
-### 🤝 Let's Connect!
+## 🚀 About Me
 
-- [cite_start]**LinkedIn**: [linkedin.com/in/pranaridhollahwijaya](https://www.linkedin.com/in/pranaridhollahwijaya) [cite: 62]
-- [cite_start]**Location**: Depok, Indonesia [cite: 12]
+- 🎓 **Education**: Applied Mathematics student at Diponegoro University (2025–2029)  
+- 🎯 **Goal**: Aspiring **AI Engineer**, focused on building intelligent systems powered by strong mathematical foundations  
+- 💼 **Experience**: Freelance IT at PT. Indah Berkah Bersaudara (JNE Depok)  
+- 🧠 **Interests**: Deep Learning, Machine Learning, Stochastic Modeling, AI Systems  
+- 📍 **Location**: Depok, West Java, Indonesia  
 
-[cite_start]"Exploring the intersection of theory and development." [cite: 32]
+---
+
+## 🛠 Tech Stack
+
+I am continuously learning and expanding my skills, with a current focus on:
+
+- **Mathematics**  
+  Applied Mathematics, Statistical Analysis, Stochastic Modeling  
+
+- **Artificial Intelligence**  
+  Machine Learning, Deep Learning, AI Development  
+
+- **Programming**  
+  Python (Data Analysis, Machine Learning)
+
+
+---
+
+## 🤝 Let's Connect!
+
+- **LinkedIn**: [linkedin.com/in/pranaridhollahwijaya](https://www.linkedin.com/in/pranaridhollahwijaya)  
+- **Location**: Depok, Indonesia  
+
+---
+
+> *"Exploring the intersection of theory and intelligent systems."*
